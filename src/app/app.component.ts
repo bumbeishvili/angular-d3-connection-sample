@@ -28,7 +28,7 @@ export class AppComponent {
     { key: '6-9 წელი', value: 3 },
   ];
 
-  set2019Data() {
+  set2019data() {
     console.log('2019');
     this.data = this.data1;
   }
